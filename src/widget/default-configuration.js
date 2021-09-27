@@ -5,10 +5,10 @@ export const defaultConfiguration = {
     closedStyle: 'chat', // button or chat
     closedChatAvatarUrl: '', // only used if closedStyle is set to 'chat'
     cookieExpiration: 1, // in days. Once opened, closed chat title will be shown as button (when closedStyle is set to 'chat')
-    introMessage: 'Ol&aacute;! Em que posso te ajudar?',
-    autoResponse: 'Procurando atendente. (Isso pode demorar um pouquinho.)',
-    autoNoResponse: 'Parece que n&atilde;o temos atendentes dispon&iacute;veis nesse momento. Por favor nos diga como' +
-    'Nos diga como podemos entrar em contato, entraremos em contato assim que poss&iacute;vel.',
+    introMessage: 'Olá! Em que posso te ajudar?',
+    autoResponse: 'Procurando atendente... (Isso pode demorar um pouquinho.)',
+    autoNoResponse: 'Parece que não temos atendentes disponíveis nesse momento. Por favor nos diga como' +
+    'podemos entrar em contato, entraremos em contato assim que possível.',
     placeholderText: 'Envie uma mensagem...',
     displayMessageTime: true,
     mainColor: '#11ABB0',
