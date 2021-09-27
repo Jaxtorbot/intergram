@@ -7,8 +7,8 @@ export const defaultConfiguration = {
     cookieExpiration: 1, // in days. Once opened, closed chat title will be shown as button (when closedStyle is set to 'chat')
     introMessage: 'Seja bem vindo!',
     autoResponse: 'Procurando atendente... (Isso pode demorar um pouquinho.)',
-    autoNoResponse: 'Estamos sem atendentes nesse momento. Por favor nos diga como' +
-    'podemos entrar em contato, entraremos em contato em breve.',
+    autoNoResponse: 'Estamos sem atendentes nesse momento. ' +
+    'Deixe um contato, retornaremos em breve.',
     placeholderText: 'Envie uma mensagem...',
     displayMessageTime: true,
     mainColor: '#11ABB0',
